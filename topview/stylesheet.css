@@ -11,6 +11,19 @@ body {
     background-color: black;
   }
 
-  #opening-wrapper {
+  main {
       height: 460px;
+      background-color: black;
+  }
+
+  img {
+      display: inline-block;
+  }
+
+  #tittle {
+      margin-top: 5vh;
+  }
+
+  #top {
+      height: 40vh;
   }
